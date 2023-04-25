@@ -1,0 +1,3 @@
+The Goal of this project was to build an AI for the [Connect X competition on Kaggle](https://www.kaggle.com/competitions/connectx) and to gain some insights into symbolic AIs. I ended up implementing Negamax with alpha beta pruning and move ordering. The agent uses a bitstring to represent the board and to do the necessary calculations.
+
+Since this project is purely for educational purposes and is not intended for further use, the code quality is not at production level (missing exception handling, no documentation, no tests, ...).
